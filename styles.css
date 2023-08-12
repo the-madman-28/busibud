@@ -1,0 +1,125 @@
+
+.center {
+    padding:10px;
+    margin-left: auto;
+    margin-right: auto;
+    align-items: center;
+    width: 150px;
+    
+  }
+
+  .card1-title{
+    top: 254px;
+    left: 121px;
+    width: 548px;
+    height: 108px;
+
+    text-align: left;
+    font: normal normal 900 40px/54px Nunito Sans;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+
+  }
+
+  .card1-text{
+   
+   top: 382px;
+   left: 121px;
+   width: 520px;
+   height: 120px;
+
+   text-align: left;
+   font: normal normal normal 18px/24px Nunito Sans;
+   letter-spacing: 0px;
+   color: #000000;
+   opacity: 1;
+  }
+
+  .card1-body{
+   
+    margin-left: 1px;
+    margin-top: 50px;
+ }
+
+ .pic-body{
+    padding:10px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 25%;
+    margin-bottom: 25%;
+    align-items: center;
+    width: 150px;
+ }
+
+ .div2{
+    text-align: center;
+    font: normal normal bold 35px/47px Nunito Sans;
+    color: #000000;
+    opacity: 1;
+    padding-bottom: 60px;
+    padding-top: 120px;
+ }
+
+ .row{
+    margin-left: 150px;
+    margin-right: 150px;
+ }
+
+ .card2-title{
+    text-align: center;
+    margin-top: 10px;
+ }
+
+ .card2-text{
+    text-align: left;
+    opacity: 1;
+    background: transparent url('img/Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sed commodo est.Pellentesque eu placerat mauris. Etiam ut maximus ante. Suspendisse varius dolor nec bibendum dignissim. Proin in diam a justo sollicitudin mattis eu sagittisnunc. In hac habita.png') 0% 0% no-repeat padding-box;
+ }
+
+ .card{
+    border: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+   
+ }
+
+ .card-image-top{
+   padding:10px;
+   margin-left: auto;
+   margin-right: auto;
+   align-items: center;
+   width: 150px;
+ }
+
+ .card2-title{
+   padding-bottom: 10px;
+   padding-top: 10px;
+ }
+
+ .card3-title{
+   text-align: left;
+   margin-top: 10px;
+}
+
+.card3-title{
+   padding-bottom: 10px;
+   padding-top: 10px;
+}
+
+footer{
+   
+   width: 100%;
+   height: 369px;
+   background: #000000 0% 0% no-repeat padding-box;
+   border: 1px solid #707070;
+   opacity: 1;
+   text-align: center;
+   color: white;
+   margin-top: 150px;
+   padding-top: 300px;
+}
+
+.carde{
+   margin-left: 150px;
+   margin-right: 150px;
+}
